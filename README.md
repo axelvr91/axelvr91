@@ -1,0 +1,5 @@
+- 👋 Hola, Soy Axel
+- 👀 Me gusta el desarrollo web y de video juegos 
+- 🌱 En este momento esto aprendiendo a utilizar *GO*
+- 📫 Me pueden contactar a través de mi correo electrónico: axelvr91@gmail.com
+- 👨‍💻 Tengo experiencia con Java, Css, Phyton, Html.
